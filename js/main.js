@@ -15,7 +15,7 @@ const secondsText = document.querySelector('#seconds-text');
 
 // Делаем расчеты
 const currentYear = new Date().getFullYear(); // 2023
-const nextYear = new Date(`May 11 ${currentYear} 00:00:00`);
+const nextYear = new Date(`May 30 ${currentYear} 00:00:00`);
 
 // Устанавливаем год на страницу
 // year.innerText = currentYear + 1;
